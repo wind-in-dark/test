@@ -1,6 +1,6 @@
 our entire project will be built base on apache nutch.
 
-
+Most files in directory M-search is the same of apache nutch
 
 
 Documents of nutch references https://nutch.apache.org/
