@@ -1,0 +1,4 @@
+介绍
+
+Apache Nutch是一个用Java编写的开源网络爬虫。通过它，我们就能够自动地找到网页中的超链接，从而极大地减轻了维护工作的负担，例如检查那些已经断开了的链接，或是对所有已经访问过的网页创建一个副本以便用于搜索。接下来就是Apache Solr所要做的。Solr是一个开源的全文搜索框架，通过Solr我们能够搜索Nutch已经访问过的网页。幸运的是，关于Nutch和Solr之间的整合在下方已经解释得相当清楚了。
+Apache Nutch对于Solr已经支持得很好，这大大简化了Nutch与Solr的整合。这也消除了过去依赖于Apache Tomcat来运行老的Nutch网络应用以及依赖于Apache Lucene来进行索引的麻烦。
